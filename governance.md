@@ -30,7 +30,7 @@ All software maintained by the GridCF is expected to rely on continuous integrat
 code should not be merged if build is broken.  Project members should use their best judgement
 when overriding the CI results.
 
-No overwriting of branch history or tags is allowed except through PMC vote.
+No overwriting of branch history or tags is allowed except through [project management committee](#project-management-committee) vote.
 
 Any project member may prepare a release candidate for a new version of the toolkit and call for
 a release vote.  If the release vote passes, the release is considered complete once the corresponding
