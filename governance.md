@@ -65,3 +65,15 @@ In addition to releases, activities that require a vote include:
 - Changing the governance document.
 - Disbanding the GridCF.
 
+Project Management Committee Nominees
+-------------------------------------
+
+As of 2 November 2018, these are the current nominees for the PMC:
+
+- Jim Basney
+- Mattias Ellert
+- Oliver Keeble
+- Brian Lin
+- Mischa Salle
+- Frank Scheiner
+- Matthew Viljoen
