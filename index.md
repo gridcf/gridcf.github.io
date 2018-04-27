@@ -7,9 +7,9 @@ Overview
 
 The Grid Community Forum (GridCF) is a global community that provides support for core grid software.
 
-Specifically, the GridCF is attempting to support a software stack christened the [Grid Community Toolkit](http://gridcf.org/gct-docs/) (GCT).  The GCT is an open-source fork of the venerable [Globus Toolkit](http://toolkit.globus.org/toolkit/) created by the [Globus Alliance](http://toolkit.globus.org/alliance/).  The GCT is _derived_ from the Globus Tookit, but is not the Globus Toolkit.  Further, the GridCF is not a part of the Globus Alliance.
+Specifically, the GridCF is attempting to support a software stack christened the [Grid Community Toolkit](http://gridcf.org/gct-docs/) (GCT).  The GCT is an open-source fork of the venerable [Globus Toolkit](http://toolkit.globus.org/toolkit/) created by the [Globus Alliance](http://toolkit.globus.org/alliance/).  The GCT is _derived_ from the Globus Toolkit, but is not the Globus Toolkit.  Further, the GridCF is not a part of the Globus Alliance.
 
-The GridCF is a nascent organization: we are looking for energetic contributors across a broad range of technical skills.  Check out our [governance doc](governance.md) and [join us on Github](https://github.com/gridcf)!
+The GridCF is a nascent organization: we are looking for energetic contributors across a broad range of technical skills.  Check out our [governance doc](governance.md) and [join us on GitHub](https://github.com/gridcf)!
 
 Objectives
 ----------
