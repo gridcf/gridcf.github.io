@@ -22,3 +22,24 @@ With this effort, we aim to:
 - Partner across several grid organizations to share the burden of supporting this core functionality.
 - Provide an open and welcoming forum for external contributors to improve the software.
 
+News
+----
+
+### 2018-09-24 ###
+
+Package updates based on the Grid Community Toolkit are now available in Fedora updates testing, EPEL testing and Debian unstable.
+
+- EPEL 6:  
+<https://bodhi.fedoraproject.org/updates/FEDORA-EPEL-2018-d19f4f231e>
+
+- EPEL 7:  
+<https://bodhi.fedoraproject.org/updates/FEDORA-EPEL-2018-8aebaba2a9>
+
+- Fedora 28:  
+<https://bodhi.fedoraproject.org/updates/FEDORA-2018-b36a6d2d0d>
+
+- Fedora 29:  
+<https://bodhi.fedoraproject.org/updates/FEDORA-2018-f9acba9316>
+
+- Debian:  
+<https://packages.debian.org/search?suite=buster&searchon=all&keywords=GridCF>
