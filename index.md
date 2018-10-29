@@ -25,9 +25,22 @@ With this effort, we aim to:
 News
 ----
 
+### 2018-10-16 ###
+
+Grid Community Toolkit packages are now available in EPEL stable and Fedora 28 stable.
+
+- EPEL 6:  
+<https://bodhi.fedoraproject.org/updates/FEDORA-EPEL-2018-d19f4f231e>
+
+- EPEL 7:  
+<https://bodhi.fedoraproject.org/updates/FEDORA-EPEL-2018-8aebaba2a9>
+
+- Fedora 28:
+<https://bodhi.fedoraproject.org/updates/FEDORA-2018-b36a6d2d0d>
+
 ### 2018-09-24 ###
 
-Package updates based on the Grid Community Toolkit are now available in Fedora updates testing, EPEL testing and Debian unstable.
+Package updates based on the Grid Community Toolkit are now available in EPEL testing, Fedora updates testing and Debian unstable and testing.
 
 - EPEL 6:  
 <https://bodhi.fedoraproject.org/updates/FEDORA-EPEL-2018-d19f4f231e>
@@ -42,4 +55,4 @@ Package updates based on the Grid Community Toolkit are now available in Fedora 
 <https://bodhi.fedoraproject.org/updates/FEDORA-2018-f9acba9316>
 
 - Debian:  
-<https://packages.debian.org/search?suite=buster&searchon=all&keywords=GridCF>
+<https://qa.debian.org/developer.php?login=mattias.ellert@physics.uu.se>
