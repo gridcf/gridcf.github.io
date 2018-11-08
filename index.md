@@ -25,6 +25,13 @@ With this effort, we aim to:
 News
 ----
 
+### 2018-10-30 ###
+
+Grid Community Toolkit packages are now available in Fedora 29 stable, too.
+
+- Fedora 29:
+<https://bodhi.fedoraproject.org/updates/FEDORA-2018-f9acba9316>
+
 ### 2018-10-16 ###
 
 Grid Community Toolkit packages are now available in EPEL stable and Fedora 28 stable.
