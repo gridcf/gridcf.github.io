@@ -25,6 +25,50 @@ With this effort, we aim to:
 News
 ----
 
+For release and general announcements please subscribe to our announcement list [announcement@gridcf.org](https://mailman.egi.eu/mailman/listinfo/announcement) hosted by [EGI](https://www.egi.eu/).
+
+****
+
+### 2019-02-26 ###
+
+#### GCT version 6.2.20190226 (maintenance release) ####
+
+The GridCF is pleased to announce a new release of the GCT: GCT version 6.2.20190226 is a maintenance release and includes all changes since the first GCT 6.2 release in November 2018.
+
+**Precompiled packages are available from:**
+
+* [Debian](https://www.debian.org/) (for Debian unstable (Sid))
+
+* [EPEL](https://fedoraproject.org/wiki/EPEL) (for Red Hat Enterprise Linux, CentOS and Scientific Linux 6 and 7 (**currently in EPEL updates-testing!**))
+
+* [Fedora](https://fedoraproject.org/) (for Fedora 28 and 29 (**currently in Fedora updates-testing'**))
+
+> **NOTICE:** As a preview, precompiled packages are also available from the [OpenSUSE Build Service ](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP3), 12 (SP4), 15 and OpenSUSE Leap 15.0, 15.1 and OpenSUSE Tumbleweed). To install follow [these exemplary instructions](https://software.opensuse.org//download.html?project=home%3Afrank_scheiner%3Agct&package=globus-common) for the `globus-common` package (which are also valid for the other packages).
+
+****
+
+All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/gct/releases/tag/v6.2.20190226)
+
+### 2018-11-15 ###
+
+#### GCT version 6.2.20181115 (first 6.2 release) ####
+
+The GridCF is pleased to announce the release of the GCT version 6.2.20181115, the first GCT 6.2 release.
+
+**Precompiled packages are available from:**
+
+* [Debian](https://www.debian.org/) (for Debian unstable (Sid))
+
+* [EPEL](https://fedoraproject.org/wiki/EPEL) (for Red Hat Enterprise Linux, CentOS and Scientific Linux 6 and 7)
+
+* [Fedora](https://fedoraproject.org/) (for Fedora 28 and 29)
+
+> **NOTICE:** As a preview, precompiled packages are now also available from the [OpenSUSE Build Service ](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP3), 12 (SP4), 15 and OpenSUSE Leap 15.0, 15.1 and OpenSUSE Tumbleweed). To install follow [these exemplary instructions](https://software.opensuse.org//download.html?project=home%3Afrank_scheiner%3Agct&package=globus-common) for the `globus-common` package (which are also valid for the other packages).
+
+****
+
+All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/gct/releases/tag/v6.2.20181115)
+
 ### 2018-10-30 ###
 
 Grid Community Toolkit packages are now available in Fedora 29 stable, too.
