@@ -22,6 +22,15 @@ With this effort, we aim to:
 - Partner across several grid organizations to share the burden of supporting this core functionality.
 - Provide an open and welcoming forum for external contributors to improve the software.
 
+Contact
+-------
+
+To get in touch with us - or even better - to get involved, participate in the discussions or start a new discussion on our general mailing list [discuss@gridcf.org](https://mailman.egi.eu/mailman/listinfo/discuss) hosted by [EGI](https://www.egi.eu/).
+
+For patches or to report non-confidential problems, please make a pull request or use the respective issue trackers in our projects [gct](https://github.com/gridcf/gct/issues) and [gct-docs](https://github.com/gridcf/gct-docs/issues) on GitHub.
+
+If you would like to make the GridCF aware of a security problem in a discreet manner, send an email to [security@gridcf.org](mailto:security@gridcf.org).
+
 News
 ----
 
