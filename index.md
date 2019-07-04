@@ -52,7 +52,7 @@ The GridCF is pleased to announce a new release of the GCT: GCT version 6.2.2019
 
 * [Fedora](https://fedoraproject.org/) (for Fedora 28, 29 and 30)
 
-> **NOTICE:** As a preview, precompiled packages are also available from the [OpenSUSE Build Service ](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP3), 12 (SP4), 15 and OpenSUSE Leap 15.0, 15.1 and OpenSUSE Tumbleweed). To install follow [these exemplary instructions](https://software.opensuse.org//download.html?project=home%3Afrank_scheiner%3Agct&package=globus-common) for the `globus-common` package (which are also valid for the other packages).
+> **NOTICE:** As a preview, packages (excluding gsi-openssh) are also available from the [OpenSUSE Build Service ](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP3), 12 (SP4), 15 and OpenSUSE Leap 15.0, 15.1 and OpenSUSE Tumbleweed). To install follow [these exemplary instructions](https://software.opensuse.org//download.html?project=home%3Afrank_scheiner%3Agct&package=globus-common) for the `globus-common` package (which are also valid for the other packages).
 
 ****
 
@@ -64,15 +64,15 @@ All details about this release can also be found on the [corresponding GitHub re
 
 The GridCF is pleased to announce the release of the GCT version 6.2.20181115, the first GCT 6.2 release.
 
-**Precompiled packages are available from:**
+**Packages are available from:**
 
-* [Debian](https://www.debian.org/) (for Debian unstable (Sid))
+* [Debian](https://www.debian.org/) (for Debian unstable (Sid), excluding gsi-openssh)
 
 * [EPEL](https://fedoraproject.org/wiki/EPEL) (for Red Hat Enterprise Linux, CentOS and Scientific Linux 6 and 7)
 
 * [Fedora](https://fedoraproject.org/) (for Fedora 28 and 29)
 
-> **NOTICE:** As a preview, precompiled packages are now also available from the [OpenSUSE Build Service ](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP3), 12 (SP4), 15 and OpenSUSE Leap 15.0, 15.1 and OpenSUSE Tumbleweed). To install follow [these exemplary instructions](https://software.opensuse.org//download.html?project=home%3Afrank_scheiner%3Agct&package=globus-common) for the `globus-common` package (which are also valid for the other packages).
+> **NOTICE:** As a preview, packages (excluding gsi-openssh) are now also available from the [OpenSUSE Build Service ](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP3), 12 (SP4), 15 and OpenSUSE Leap 15.0, 15.1 and OpenSUSE Tumbleweed). To install follow [these exemplary instructions](https://software.opensuse.org//download.html?project=home%3Afrank_scheiner%3Agct&package=globus-common) for the `globus-common` package (which are also valid for the other packages).
 
 ****
 
