@@ -44,13 +44,13 @@ For release and general announcements please subscribe to our announcement list 
 
 The GridCF is pleased to announce a new release of the GCT: GCT version 6.2.20190226 is a maintenance release and includes all changes since the first GCT 6.2 release in November 2018.
 
-**Precompiled packages are available from:**
+**Packages are available from:**
 
-* [Debian](https://www.debian.org/) (for Debian unstable (Sid))
+* [Debian](https://www.debian.org/) (for Debian testing (buster) and unstable (sid), excluding gsi-openssh)
 
-* [EPEL](https://fedoraproject.org/wiki/EPEL) (for Red Hat Enterprise Linux, CentOS and Scientific Linux 6 and 7 (**currently in EPEL updates-testing!**))
+* [EPEL](https://fedoraproject.org/wiki/EPEL) (for Red Hat Enterprise Linux, CentOS and Scientific Linux 6 and 7)
 
-* [Fedora](https://fedoraproject.org/) (for Fedora 28 and 29 (**currently in Fedora updates-testing'**))
+* [Fedora](https://fedoraproject.org/) (for Fedora 28, 29 and 30)
 
 > **NOTICE:** As a preview, precompiled packages are also available from the [OpenSUSE Build Service ](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP3), 12 (SP4), 15 and OpenSUSE Leap 15.0, 15.1 and OpenSUSE Tumbleweed). To install follow [these exemplary instructions](https://software.opensuse.org//download.html?project=home%3Afrank_scheiner%3Agct&package=globus-common) for the `globus-common` package (which are also valid for the other packages).
 
