@@ -1,6 +1,6 @@
 
-GridCF Community Governance
-===========================
+[GridCF Community Governance](#gridcf-community-governance)
+===========================================================
 
 The GridCF is a nexus point for supporting core software packages in grid computing.
 
@@ -12,14 +12,14 @@ The GridCF is not a legal entity; it is meant to be a lightweight forum.  We aim
 this governance document be corresponding lightweight, providing advice on how to move
 forward with our goals but not to serve as a legal document.
 
-Contributions and Community Participation
------------------------------------------
+[Contributions and Community Participation](#contributions-and-community-participation)
+---------------------------------------------------------------------------------------
 
 We aim to be a welcoming community; all contributors are expected to abide by the [contributor
 code of conduct](http://contributor-covenant.org/version/1/4).
 
-Standards and Practices
------------------------
+[Standards and Practices](#standards-and-practices)
+---------------------------------------------------
 
 To encourage code contributions, we aim to aggressively invite technically adept individuals to
 help maintain the code base.  All contributions should follow the GitHub pull request workflow.
@@ -37,8 +37,8 @@ a release vote.  If the release vote passes, the release is considered complete 
 version tag has been pushed to the repository.  Any tag without a corresponding release vote is
 considered a candidate.
 
-Project Management Committee
----------------------------
+[Project Management Committee (PMC)](#project-management-committee-pmc)
+-----------------------------------------------------------------------
 
 Project managers serve as a special custodians of the community forum, making significant decisions
 for the forum, such as adding new members, changing the governance, or disbanding the forum itself.
@@ -65,8 +65,8 @@ In addition to releases, activities that require a vote include:
 - Changing the governance document.
 - Disbanding the GridCF.
 
-Project Management Committee
-----------------------------
+[PMC members](#pmc-members)
+---------------------------
 
 As of 13 November 2017, these are the current members for the PMC:
 
