@@ -2,8 +2,7 @@
 layout: default
 ---
 
-Overview
-========
+# [Overview](#overview) #
 
 The Grid Community Forum (GridCF) is a global community that provides support for core grid software.
 
@@ -11,8 +10,7 @@ Specifically, the GridCF is attempting to support a software stack christened th
 
 The GridCF is a nascent organization: we are looking for energetic contributors across a broad range of technical skills.  Check out our [governance doc](governance.md) and [join us on GitHub](https://github.com/gridcf)!
 
-Objectives
-----------
+## [Objectives](#objectives) ##
 
 The creation of the GridCF and the GCT fork of the Globus Toolkit was motivated by the announcement of the upcoming [end-of-support](https://github.com/globus/globus-toolkit/blob/globus_6_branch/support-changes.md) of the Globus Toolkit in January 2018.
 
@@ -22,8 +20,7 @@ With this effort, we aim to:
 - Partner across several grid organizations to share the burden of supporting this core functionality.
 - Provide an open and welcoming forum for external contributors to improve the software.
 
-Contact
--------
+## [Contact](#contact) ##
 
 To get in touch with us - or even better - to get involved, participate in the discussions or start a new discussion on our general mailing list [discuss@gridcf.org](https://mailman.egi.eu/mailman/listinfo/discuss) hosted by [EGI](https://www.egi.eu/).
 
@@ -31,14 +28,14 @@ For patches or to report non-confidential problems, please make a pull request o
 
 If you would like to make the GridCF aware of a security problem in a discreet manner, send an email to [security@gridcf.org](mailto:security@gridcf.org).
 
-News
+## [News](#news) ##
 ----
 
 For release and general announcements please subscribe to our announcement list [announcement@gridcf.org](https://mailman.egi.eu/mailman/listinfo/announcement) hosted by [EGI](https://www.egi.eu/).
 
 ****
 
-### 2019-09-19 ###
+### [2019-09-19](#2019-09-19) ###
 
 #### GCT version 6.2.20190906 (maintenance release) ####
 
@@ -58,7 +55,7 @@ The GridCF is pleased to announce a new release of the GCT: GCT version 6.2.2019
 
 All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/gct/releases/tag/v6.2.20190906)
 
-### 2019-02-26 ###
+### [2019-02-26](#2019-02-26) ###
 
 #### GCT version 6.2.20190226 (maintenance release) ####
 
@@ -78,7 +75,7 @@ The GridCF is pleased to announce a new release of the GCT: GCT version 6.2.2019
 
 All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/gct/releases/tag/v6.2.20190226)
 
-### 2018-11-15 ###
+### [2018-11-15](#2018-11-15) ###
 
 #### GCT version 6.2.20181115 (first 6.2 release) ####
 
@@ -98,14 +95,14 @@ The GridCF is pleased to announce the release of the GCT version 6.2.20181115, t
 
 All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/gct/releases/tag/v6.2.20181115)
 
-### 2018-10-30 ###
+### [2018-10-30](#2018-10-30) ###
 
 Grid Community Toolkit packages are now available in Fedora 29 stable, too.
 
 - Fedora 29:
 <https://bodhi.fedoraproject.org/updates/FEDORA-2018-f9acba9316>
 
-### 2018-10-16 ###
+### [2018-10-16](#2018-10-16) ###
 
 Grid Community Toolkit packages are now available in EPEL stable and Fedora 28 stable.
 
@@ -118,7 +115,7 @@ Grid Community Toolkit packages are now available in EPEL stable and Fedora 28 s
 - Fedora 28:
 <https://bodhi.fedoraproject.org/updates/FEDORA-2018-b36a6d2d0d>
 
-### 2018-09-24 ###
+### [2018-09-24](#2018-09-24) ###
 
 Package updates based on the Grid Community Toolkit are now available in EPEL testing, Fedora updates testing and Debian unstable and testing.
 
