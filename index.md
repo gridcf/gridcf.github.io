@@ -29,7 +29,6 @@ For patches or to report non-confidential problems, please make a pull request o
 If you would like to make the GridCF aware of a security problem in a discreet manner, send an email to [security@gridcf.org](mailto:security@gridcf.org).
 
 ## [News](#news) ##
-----
 
 For release and general announcements please subscribe to our announcement list [announcement@gridcf.org](https://mailman.egi.eu/mailman/listinfo/announcement) hosted by [EGI](https://www.egi.eu/).
 
