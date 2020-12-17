@@ -6,7 +6,7 @@ layout: default
 
 The Grid Community Forum (GridCF) is a global community that provides support for core grid software.
 
-Specifically, the GridCF is attempting to support a software stack christened the [Grid Community Toolkit](http://gridcf.org/gct-docs/) (GCT).  The GCT is an open-source fork of the venerable [Globus Toolkit](http://toolkit.globus.org/toolkit/) created by the [Globus Alliance](http://toolkit.globus.org/alliance/).  The GCT is _derived_ from the Globus Toolkit, but is not the Globus Toolkit.  Further, the GridCF is not a part of the Globus Alliance.
+Specifically, the GridCF is attempting to support a software stack christened the [Grid Community Toolkit (GCT)](https://github.com/gct/).  The GCT is an open-source fork of the venerable [Globus Toolkit](http://toolkit.globus.org/toolkit/) created by the [Globus Alliance](https://www.globus.org).  The GCT is _derived_ from the Globus Toolkit, but is not the Globus Toolkit.  Further, the GridCF is not a part of the Globus Alliance.
 
 The GridCF is a nascent organization: we are looking for energetic contributors across a broad range of technical skills.  Check out our [governance doc](governance.md) and [join us on GitHub](https://github.com/gridcf)!
 
@@ -34,6 +34,30 @@ For release and general announcements please subscribe to our announcement list 
 
 ****
 
+### [2020-12-24](#2020-12-24) ###
+
+#### GCT version 6.2.20201212 (maintenance release) ####
+
+The GridCF is pleased to announce a new release of the GCT: GCT version 6.2.20201212 is a maintenance release and includes all changes since the last maintenance release in September 2019.
+
+**Packages are available from:**
+
+* [Debian](https://www.debian.org/) (for Debian unstable (sid), excluding gsi-openssh)
+
+* [EPEL](https://fedoraproject.org/wiki/EPEL) (for Red Hat Enterprise Linux and CentOS 7 and 8 and Scientific Linux 7 (currently in updates-testing!))
+
+* [Fedora](https://fedoraproject.org/) (for Fedora 32 and 33 (currently in updates-testing!))
+
+* [openSUSE Build Service](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP2), 12 (SP3), 12 (SP4), 15, 15 (SP1), 15 (SP2) and OpenSUSE Leap 15.1, 15.2 and OpenSUSE Tumbleweed)
+
+****
+
+All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/gct/releases/tag/v6.2.20201212)
+
+### [2020-01-16](#2020-01-16) ###
+
+The GridCF adopts the UberFTP client created by Jason Alt and takes over maintenance. The next release will be version 2.9.
+
 ### [2019-09-19](#2019-09-19) ###
 
 #### GCT version 6.2.20190906 (maintenance release) ####
@@ -48,7 +72,7 @@ The GridCF is pleased to announce a new release of the GCT: GCT version 6.2.2019
 
 * [Fedora](https://fedoraproject.org/) (for Fedora 29 and 30)
 
-> **NOTICE:** As a preview, packages (excluding gsi-openssh) are also available from the [OpenSUSE Build Service ](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (or SLES 12 (SP2), 12 (SP3), 12 (SP4), 15, 15 (SP1) and OpenSUSE Leap 15.0, 15.1 and OpenSUSE Tumbleweed). To install follow [these exemplary instructions](https://software.opensuse.org//download.html?project=home%3Afrank_scheiner%3Agct&package=globus-common) for the `globus-common` package (which are also valid for the other packages).
+> **NOTICE:** As a preview, packages (excluding gsi-openssh) are also available from the [OpenSUSE Build Service ](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP2), 12 (SP3), 12 (SP4), 15, 15 (SP1) and OpenSUSE Leap 15.0, 15.1 and OpenSUSE Tumbleweed). To install follow [these exemplary instructions](https://software.opensuse.org//download.html?project=home%3Afrank_scheiner%3Agct&package=globus-common) for the `globus-common` package (which are also valid for the other packages).
 
 ****
 
