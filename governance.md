@@ -72,8 +72,8 @@ As of 12 March 2021, these are the current members for the PMC:
 
 - Jim Basney
 - Mattias Ellert
-- Maarten Litmaath
 - Brian Lin
+- Maarten Litmaath
 - Mischa Salle
 - Frank Scheiner
 - Matthew Viljoen
