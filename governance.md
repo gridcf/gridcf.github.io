@@ -68,12 +68,12 @@ In addition to releases, activities that require a vote include:
 [PMC members](#pmc-members)
 ---------------------------
 
-As of 13 November 2017, these are the current members for the PMC:
+As of 12 March 2021, these are the current members for the PMC:
 
 - Jim Basney
 - Mattias Ellert
-- Oliver Keeble
 - Brian Lin
+- Maarten Litmaath
 - Mischa Salle
 - Frank Scheiner
 - Matthew Viljoen
