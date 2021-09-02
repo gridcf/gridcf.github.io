@@ -34,6 +34,26 @@ For release and general announcements please subscribe to our announcement list 
 
 ****
 
+### [2021-09-03](#2021-09-03) ###
+
+#### GCT version 6.2.20210826 (maintenance release) ####
+
+The GridCF is pleased to announce a new release of the GCT: GCT version 6.2.20210826 is a maintenance release and includes all changes since the last maintenance release in December 2020.
+
+**Packages are available from:**
+
+* [Debian](https://www.debian.org/) (for Debian unstable (sid), excluding gsi-openssh)
+
+* [EPEL](https://fedoraproject.org/wiki/EPEL) (for Red Hat Enterprise Linux and CentOS 7 and 8 and Scientific Linux 7 (currently in updates-testing!))
+
+* [Fedora](https://fedoraproject.org/) (for Fedora 33 and 34 (currently in updates-testing!))
+
+* [openSUSE Build Service](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP3), 12 (SP4), 12 (SP5), 15, 15 (SP1), 15 (SP2), 15 (SP3) and OpenSUSE Leap 15.2, 15.3)
+
+****
+
+All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/gct/releases/tag/v6.2.20210826)
+
 ### [2020-12-24](#2020-12-24) ###
 
 #### GCT version 6.2.20201212 (maintenance release) ####
