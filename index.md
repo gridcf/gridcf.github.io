@@ -34,6 +34,30 @@ For release and general announcements please subscribe to our announcement list 
 
 ****
 
+### [2022-02-09](#2022-02-09) ###
+
+#### UberFTP version 2.9 ####
+
+The GridCF is pleased to announce a new release of UberFTP: Version 2.9. This release includes various changes compared to version 2.8 from 2014-02-11, mainly support for IPv6 and fixes for existing issues and updates to the shipped documentation and the build infrastructure.
+
+> **NOTICE:** UberFTP 2.9 uses `EPSV` and `EPRT` (see [RFC 2428](https://tools.ietf.org/html/rfc2428) for details) to support both IPv4 and IPv6 addresses. To maintain compatibility from a [Globus GridFTP](https://gridcf.org/gct-docs/latest/gridftp/index.html) service, use the configuration options `epsv_ip 1` and `epsv_match 1` for the PI (frontend process) of that service **if** its PI(s) and DTP(s) (backend process(es)) are located on different hosts.
+
+**Errata advisory**
+
+Unfortunately an "issue" with the `cat` functionality of UberFTP 2.9 (though already in version 2.8) went unnoticed until after the UberFTP 2.9 sources reached EPEL/Fedora and was only detected during functional testing of the resulting RPM packages.
+
+UberFTP adds an UNIX newline to the output for both text and binary files in ASCII and binary transfer modes. This makes using the output in a pipeline - for example to hash its contents - at least irritating if you aren't aware of that. This is only relevant for non-interactive use.
+
+**Packages are available from:**
+
+* [EPEL](https://fedoraproject.org/wiki/EPEL) (for Red Hat Enterprise Linux 7, 8 and 9 and CentOS 7, CentOS Stream 8 and 9, RockyLinux 8 and Scientific Linux 7)
+* [Fedora](https://fedoraproject.org/) (for Fedora 34, 35 and 36)
+* [openSUSE Build Service](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP3), 12 (SP4), 12 (SP5), 15, 15 (SP1), 15 (SP2), 15 (SP3) and OpenSUSE Leap 15.3 and 15.4)
+
+****
+
+All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/UberFTP/releases/tag/Version_2_9)
+
 ### [2021-09-03](#2021-09-03) ###
 
 #### GCT version 6.2.20210826 (maintenance release) ####
