@@ -34,6 +34,24 @@ For release and general announcements please subscribe to our announcement list 
 
 ****
 
+### [2022-10-10](#2022-10-10) ###
+
+#### UberFTP version 2.9.1 ####
+
+the GridCF is pleased to announce a new release of UberFTP: UberFTP version 2.9.1 includes all changes since the last release (2.9) from Fabruary 2022.
+
+**Packages are or will be available from:**
+
+* [EPEL](https://fedoraproject.org/wiki/EPEL) (for Red Hat Enterprise Linux 7, 8, 9 and CentOS 7, CentOS Stream 8 and 9 and RockyLinux 8 and 9 and Scientific Linux 7)
+
+* [Fedora](https://fedoraproject.org/) (for Fedora 36 and upcoming 37)
+
+* [openSUSE Build Service](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP3), 12 (SP4), 12 (SP5), 15, 15 (SP1), 15 (SP2), 15 (SP3), openSUSE Leap 15.3, 15.4 and Tumbleweed)
+
+****
+
+All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/UberFTP/releases/tag/Version_2_9_1)
+
 ### [2022-06-08](#2022-06-08) ###
 
 #### GCT 6.2.20220524 (maintenance release) ####
