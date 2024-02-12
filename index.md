@@ -65,6 +65,10 @@ The GridCF is pleased to announce a new release of the GCT: GCT version 6.2.2022
 * [Fedora](https://fedoraproject.org/) (for Fedora 34, 35 and 36 (**currently in updates-testing!**))
 * [openSUSE Build Service](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP3), 12 (SP4), 12 (SP5), 15, 15 (SP1), 15 (SP2), 15 (SP3) and OpenSUSE Leap 15.3 and 15.4)
 
+****
+
+All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/gct/releases/tag/v6.2.20220524)
+
 ### [2022-02-09](#2022-02-09) ###
 
 #### UberFTP version 2.9 ####
