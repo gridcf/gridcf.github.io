@@ -34,7 +34,7 @@ For release and general announcements please subscribe to our announcement list 
 
 ****
 
-### [2024-02-15](#2024-02-15) ###
+### [2024-02-16](#2024-02-16) ###
 
 #### GCT 6.2.20240202 (maintenance release) ####
 
