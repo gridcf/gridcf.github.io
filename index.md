@@ -34,6 +34,23 @@ For release and general announcements please subscribe to our announcement list 
 
 ****
 
+### [2024-02-16](#2024-02-16) ###
+
+#### GCT 6.2.20240202 (maintenance release) ####
+
+The GridCF is pleased to announce a new release of the GCT: GCT version 6.2.20240202 is a maintenance release and includes all changes since the last maintenance release from June 2022.
+
+**Packages are available from:**
+
+* [Debian](https://www.debian.org/) (for Debian unstable (Sid), excluding gsi-openssh)
+* [EPEL](https://fedoraproject.org/wiki/EPEL) (for Red Hat Enterprise Linux 7, 8 and 9 and CentOS 7, CentOS Stream 8 and 9, RockyLinux 8 and 9 and Scientific Linux 7 (**currently in updates-testing!**))
+* [Fedora](https://fedoraproject.org/) (for Fedora 38, 39 (**currently in updates-testing!**) and 40 )
+* [openSUSE Build Service](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP5), 15 (SP2), 15 (SP3) and OpenSUSE Leap 15.4 and 15.5)
+
+****
+
+All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/gct/releases/tag/v6.2.20240202)
+
 ### [2022-10-10](#2022-10-10) ###
 
 #### UberFTP version 2.9.1 ####
@@ -64,6 +81,10 @@ The GridCF is pleased to announce a new release of the GCT: GCT version 6.2.2022
 * [EPEL](https://fedoraproject.org/wiki/EPEL) (for Red Hat Enterprise Linux 7, 8 and 9 and CentOS 7, CentOS Stream 8 and 9, RockyLinux 8 and Scientific Linux 7 (**currently in updates-testing!**))
 * [Fedora](https://fedoraproject.org/) (for Fedora 34, 35 and 36 (**currently in updates-testing!**))
 * [openSUSE Build Service](https://build.opensuse.org/project/show/home:frank_scheiner:gct) (for SLES 12 (SP3), 12 (SP4), 12 (SP5), 15, 15 (SP1), 15 (SP2), 15 (SP3) and OpenSUSE Leap 15.3 and 15.4)
+
+****
+
+All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/gct/releases/tag/v6.2.20220524)
 
 ### [2022-02-09](#2022-02-09) ###
 
