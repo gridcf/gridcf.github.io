@@ -34,6 +34,81 @@ For release and general announcements please subscribe to our announcement list 
 
 ****
 
+### [2026-11-11](#2026-11-11) ###
+
+#### GCT 6.2.20261111 (bugfix and maintenance release) ####
+
+The GridCF is pleased to announce a new release of the GCT: GCT version 6.2.20261111 is a bugfix and maintenance release and includes (1) a fix for **CVE-2026-123975** and (2) all changes since the last maintenance release from February 2026.
+
+**CVE-2026-123975**
+
+A flaw was detected in globus-gss-assist prior to version 12.9 during automated testing by [Deus Rex](https://deusrex.ai/).
+
+The flaw is located in `globus_gss_assist_token_get_fd()` which is used by:
+* globus-gatekeeper
+* myproxy
+
+If you are using one of these services and have globus-gss-assist packages prior to version 12.9 (except for EPEL/Fedora: prior to globus-gss-assist-12.7-13.[...] and Debian: prior to globus-gss-assist (12.7-5); see below) installed, consider these service(s) vulnerable to this flaw.
+
+Description by Deus Rex, who also provided [a fix for this issue](https://github.com/gridcf/gct/commit/3df2be4834c146bdcec90009a0f2e5771ff63cca):
+
+> globus_gss_assist_token_get_fd() computes the body size of an SSLv2
+> record as the 15-bit record length minus 3. A peer that sends a record
+> length below 3 makes the size negative. The token buffer is then
+> allocated too small, and the following 5-byte memcpy and the fread of
+> the body write past it before any authentication. This crashes
+> globus-gatekeeper.
+
+Please check the [corresponding GitHub releases page](https://github.com/gridcf/gct/releases/tag/v6.2.20261111) for detailed descriptions of the flaw.
+
+****
+
+This flaw was fixed in advance for globus-gss-assist packages in Debian (testing and unstable) and Fedora/EPEL. **Please note: the following package versions are fixed, although their version is smaller than 12.9.** If not already updated, please update to these package versions ASAP.
+
+**Debian users:**
+
+Updated packages (globus-gss-assist (12.7-5)) are currently only available for testing and unstable. For stable you can (1) either wait for updated packages, (2) install and use the globus-gss-assist packages from testing for the time being or (3) rebuild globus-gss-assist packages yourself with [the fix](https://github.com/gridcf/gct/commit/3df2be4834c146bdcec90009a0f2e5771ff63cca) included. Please note: the updated packages from testing might not work on oldstable, because they require at least glibc version 2.38.
+
+The respective packages can be found via:
+* [globus-gss-assist (12.7-5)](https://packages.debian.org/source/forky/globus-gss-assist)
+
+**Fedora/EPEL users:**
+
+Note that these updated packages (globus-gss-assist-12.7-13.[...]) might still be in testing ATM.
+
+The respective packages can be found via:
+* [globus-gss-assist-12.7-13.el8](https://koji.fedoraproject.org/koji/buildinfo?buildID=3133527)
+* [globus-gss-assist-12.7-13.el9](https://koji.fedoraproject.org/koji/buildinfo?buildID=3133523)
+* [globus-gss-assist-12.7-13.el10_2](https://koji.fedoraproject.org/koji/buildinfo?buildID=3133520)
+* [globus-gss-assist-12.7-13.el10_3](https://koji.fedoraproject.org/koji/buildinfo?buildID=3133518)
+* [globus-gss-assist-12.7-13.el10_4](https://koji.fedoraproject.org/koji/buildinfo?buildID=3133510)
+* [globus-gss-assist-12.7-13.fc43](https://koji.fedoraproject.org/koji/buildinfo?buildID=3133515)
+* [globus-gss-assist-12.7-13.fc44](https://koji.fedoraproject.org/koji/buildinfo?buildID=3133512)
+* [globus-gss-assist-12.7-13.fc45](https://koji.fedoraproject.org/koji/buildinfo?buildID=3133513)
+* [globus-gss-assist-12.7-13.fc46](https://bodhi.fedoraproject.org/updates/FEDORA-2026-e6e46e5f52)
+
+****
+
+**Other users:**
+
+Please rebuild and install the GCT or just globus-gss-assist with [the fix](https://github.com/gridcf/gct/commit/3df2be4834c146bdcec90009a0f2e5771ff63cca) included.
+
+The respective fixed source tarballs will be available from our usual repo after the release builds on GitHub have finished:
+* https://repo.gridcf.org/gct6/sources/gct-6.2.[...].tar.gz
+* https://repo.gridcf.org/gct6/sources/globus_gss_assist-12.9.tar.gz
+
+****
+
+**Packages are available from:**
+
+* [Debian](https://www.debian.org/) (for Debian testing and unstable (Sid), excluding gsi-openssh)
+* [EPEL](https://fedoraproject.org/wiki/EPEL) (for Red Hat Enterprise Linux/CentOS Stream/RockyLinux 8, 9 and 10)
+* [Fedora](https://fedoraproject.org/) (for Fedora 43, 44, 45 and future 46)
+
+****
+
+All details about this release can also be found on the [corresponding GitHub releases page](https://github.com/gridcf/gct/releases/tag/v6.2.20261111)
+
 ### [2026-02-08](#2026-02-08) ###
 
 #### GCT 6.2.20260123 (maintenance release) ####
